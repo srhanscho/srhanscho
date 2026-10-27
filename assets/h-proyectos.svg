@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img"><style>
+.mono{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.sans{font-family:-apple-system,'Segoe UI',system-ui,Roboto,'Helvetica Neue',Arial,sans-serif}
+.eyebrow{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:12px;letter-spacing:3px;fill:#3FE8F0}
+.label{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:10.5px;letter-spacing:1.6px;fill:#7E8AA3}
+@media (prefers-reduced-motion:reduce){.anim{animation:none!important}}
+</style><defs></defs><rect x=".5" y=".5" width="999" height="63" rx="16" fill="#14121F" stroke="#26304A"/><text x="28" y="39" class="eyebrow" font-size="13">PROYECTOS // LO QUE HE CONSTRUIDO</text><line x1="389.8" y1="35" x2="760.3" y2="35" stroke="#26304A"/><text x="972" y="39" text-anchor="end" class="label">TOCA UNA TARJETA PARA ABRIRLA</text></svg>

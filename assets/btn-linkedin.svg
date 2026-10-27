@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="159" height="46" viewBox="0 0 159 46" role="img"><style>
+.mono{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.sans{font-family:-apple-system,'Segoe UI',system-ui,Roboto,'Helvetica Neue',Arial,sans-serif}
+.eyebrow{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:12px;letter-spacing:3px;fill:#3FE8F0}
+.label{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:10.5px;letter-spacing:1.6px;fill:#7E8AA3}
+@media (prefers-reduced-motion:reduce){.anim{animation:none!important}}
+</style><defs></defs><rect x=".5" y=".5" width="158" height="45" rx="16" fill="#14121F" stroke="#26304A"/><g transform="translate(18,12)"><rect x="1" y="1" width="20" height="20" rx="4" fill="#3FE8F0"/><circle cx="6.3" cy="6.2" r="1.7" fill="#14121F"/><rect x="4.8" y="9" width="3" height="8.5" fill="#14121F"/><path d="M10,9 h2.9 v1.3 c.5-.9 1.6-1.5 2.8-1.5 c2.2,0 3.3,1.4 3.3,3.9 v4.8 h-3 v-4.3 c0-1.2-.4-1.9-1.4-1.9 c-1,0 -1.6,.7 -1.6,1.9 v4.3 h-3 z" fill="#14121F"/></g><text x="52" y="29" class="mono" font-size="14" fill="#E6F6F7">LinkedIn</text><path d="M129.2,30 l9,-9 m-6,0 h6 v6" fill="none" stroke="#3FE8F0" stroke-width="1.6"/></svg>

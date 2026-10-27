@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="236" viewBox="0 0 490 236" role="img"><style>
+.mono{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.sans{font-family:-apple-system,'Segoe UI',system-ui,Roboto,'Helvetica Neue',Arial,sans-serif}
+.eyebrow{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:12px;letter-spacing:3px;fill:#3FE8F0}
+.label{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:10.5px;letter-spacing:1.6px;fill:#7E8AA3}
+@media (prefers-reduced-motion:reduce){.anim{animation:none!important}}
+</style><defs></defs><rect x=".5" y=".5" width="489" height="235" rx="16" fill="#14121F" stroke="#26304A"/>
+<rect x="1" y="20" width="4" height="196" rx="2" fill="#26304A"/>
+<text x="28" y="40" class="label">SAAS · MULTI-TENANT</text>
+<rect x="336" y="24" width="130" height="24" rx="12" fill="#7E8AA3" fill-opacity=".12" stroke="#7E8AA3" stroke-opacity=".6"/>
+<text x="401" y="40" text-anchor="middle" class="mono" font-size="11.5" fill="#7E8AA3">Producto propio</text>
+<text x="27" y="86" class="mono" font-size="30" font-weight="700" fill="#E6F6F7" letter-spacing="-.5">Panello</text>
+<text x="28" y="116" class="sans" font-size="15" fill="#7E8AA3"><tspan x="28" dy="0">Plataforma para que los negocios gestionen productos y</tspan><tspan x="28" dy="21">pedidos, con los datos de cada uno aislados.</tspan></text>
+<rect x="28" y="164" width="68" height="24" rx="12" fill="none" stroke="#3FE8F0" stroke-opacity=".45"/><text x="37" y="180" class="mono" font-size="11.5" fill="#3FE8F0">FastAPI</text><rect x="103.69999999999999" y="164" width="103" height="24" rx="12" fill="none" stroke="#3FE8F0" stroke-opacity=".45"/><text x="112.69999999999999" y="180" class="mono" font-size="11.5" fill="#3FE8F0">React / Expo</text><rect x="214.89999999999998" y="164" width="75" height="24" rx="12" fill="none" stroke="#3FE8F0" stroke-opacity=".45"/><text x="223.89999999999998" y="180" class="mono" font-size="11.5" fill="#3FE8F0">Supabase</text><rect x="297.7" y="164" width="89" height="24" rx="12" fill="none" stroke="#3FE8F0" stroke-opacity=".45"/><text x="306.7" y="180" class="mono" font-size="11.5" fill="#3FE8F0">PostgreSQL</text>
+<text x="466" y="214" text-anchor="end" class="mono" font-size="12" fill="#3FE8F0">abrir demo ↗</text>
+</svg>

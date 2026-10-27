@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="236" viewBox="0 0 490 236" role="img"><style>
+.mono{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.sans{font-family:-apple-system,'Segoe UI',system-ui,Roboto,'Helvetica Neue',Arial,sans-serif}
+.eyebrow{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:12px;letter-spacing:3px;fill:#3FE8F0}
+.label{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:10.5px;letter-spacing:1.6px;fill:#7E8AA3}
+@media (prefers-reduced-motion:reduce){.anim{animation:none!important}}
+</style><defs></defs><rect x=".5" y=".5" width="489" height="235" rx="16" fill="#14121F" stroke="#26304A"/>
+<rect x="1" y="20" width="4" height="196" rx="2" fill="#FFC94A"/>
+<text x="28" y="40" class="label">IA · EDUCACIÓN</text>
+<rect x="300" y="24" width="166" height="24" rx="12" fill="#FFC94A" fill-opacity=".12" stroke="#FFC94A" stroke-opacity=".6"/>
+<text x="383" y="40" text-anchor="middle" class="mono" font-size="11.5" fill="#FFC94A">Mejor uso de Gemma 4</text>
+<text x="27" y="86" class="mono" font-size="30" font-weight="700" fill="#E6F6F7" letter-spacing="-.5">Lulo</text>
+<text x="28" y="116" class="sans" font-size="15" fill="#7E8AA3"><tspan x="28" dy="0">Tutor con IA para niños de 6 a 12 años que aprende cómo</tspan><tspan x="28" dy="21">aprende cada uno y adapta la siguiente clase.</tspan></text>
+<rect x="28" y="164" width="68" height="24" rx="12" fill="none" stroke="#3FE8F0" stroke-opacity=".45"/><text x="37" y="180" class="mono" font-size="11.5" fill="#3FE8F0">Next.js</text><rect x="103.69999999999999" y="164" width="89" height="24" rx="12" fill="none" stroke="#3FE8F0" stroke-opacity=".45"/><text x="112.69999999999999" y="180" class="mono" font-size="11.5" fill="#3FE8F0">TypeScript</text><rect x="200.7" y="164" width="68" height="24" rx="12" fill="none" stroke="#3FE8F0" stroke-opacity=".45"/><text x="209.7" y="180" class="mono" font-size="11.5" fill="#3FE8F0">Gemma 4</text><rect x="276.4" y="164" width="89" height="24" rx="12" fill="none" stroke="#3FE8F0" stroke-opacity=".45"/><text x="285.4" y="180" class="mono" font-size="11.5" fill="#3FE8F0">Web Speech</text>
+<text x="466" y="214" text-anchor="end" class="mono" font-size="12" fill="#3FE8F0">abrir demo ↗</text>
+</svg>

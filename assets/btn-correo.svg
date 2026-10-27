@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="46" viewBox="0 0 142 46" role="img"><style>
+.mono{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.sans{font-family:-apple-system,'Segoe UI',system-ui,Roboto,'Helvetica Neue',Arial,sans-serif}
+.eyebrow{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:12px;letter-spacing:3px;fill:#3FE8F0}
+.label{font-family:'Cascadia Code','SF Mono','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace;font-size:10.5px;letter-spacing:1.6px;fill:#7E8AA3}
+@media (prefers-reduced-motion:reduce){.anim{animation:none!important}}
+</style><defs></defs><rect x=".5" y=".5" width="141" height="45" rx="16" fill="#14121F" stroke="#26304A"/><g transform="translate(18,12)"><g fill="none" stroke="#3FE8F0" stroke-width="1.7" stroke-linejoin="round"><rect x="1.5" y="4" width="19" height="14" rx="2.5"/><path d="M2.5,5.5 L11,12 L19.5,5.5"/></g></g><text x="52" y="29" class="mono" font-size="14" fill="#E6F6F7">Correo</text><path d="M112.4,30 l9,-9 m-6,0 h6 v6" fill="none" stroke="#3FE8F0" stroke-width="1.6"/></svg>
