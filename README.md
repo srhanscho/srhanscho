@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Han's De Ávila, desarrollador de software en formación en Barranquilla, Colombia. Foto holográfica con malla 3D. Podios 2026: Mejor uso de Gemma 4, un 2.º y un 3.er lugar.">
+<img src="assets/hero.svg" width="100%" alt="Han's De Ávila, desarrollador de software en formación en Barranquilla, Colombia. Foto holográfica con malla 3D. Podios 2026: un 1.er lugar, Mejor uso de Gemma 4, un 2.º y un 3.er lugar.">
 
 <a href="https://hansdeavila.vercel.app/"><img src="assets/btn-portafolio.svg" height="46" alt="Portafolio"></a>
 <a href="https://www.linkedin.com/in/hansdeavilasanchez/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"></a>
@@ -10,14 +10,16 @@
 
 <img src="assets/h-podios.svg" width="100%" alt="Podios en hackathons 2026">
 
-<a href="https://lulo-ia.vercel.app/"><img src="assets/award-lulo.svg" width="32%" alt="Lulo: Mejor uso de Gemma 4 en el Hacktoberfest Hack Day Barranquilla 2026"></a>
-<a href="https://gotocloud.vercel.app/"><img src="assets/award-camila.svg" width="32%" alt="Camila: 2.º lugar en la Hackathon CaribeTech, reto de GoToCloud"></a>
-<a href="https://la-vaca-hackaton.vercel.app/"><img src="assets/award-la-vaca.svg" width="32%" alt="La Vaca: 3.er lugar en la hackatón"></a>
+<a href="https://sabia-cartagena.vercel.app/"><img src="assets/award-sabia.svg" width="24%" alt="Sabia: 1.er lugar en la II Hackatón esapista, Cartagena de Indias 2026"></a>
+<a href="https://lulo-ia.vercel.app/"><img src="assets/award-lulo.svg" width="24%" alt="Lulo: Mejor uso de Gemma 4 en el Hacktoberfest Hack Day Barranquilla 2026"></a>
+<a href="https://gotocloud.vercel.app/"><img src="assets/award-camila.svg" width="24%" alt="Camila: 2.º lugar en la Hackathon CaribeTech, reto de GoToCloud"></a>
+<a href="https://la-vaca-hackaton.vercel.app/"><img src="assets/award-la-vaca.svg" width="24%" alt="La Vaca: 3.er lugar en la hackatón"></a>
 
 <br><br>
 
 <img src="assets/h-proyectos.svg" width="100%" alt="Proyectos">
 
+<a href="https://sabia-cartagena.vercel.app/"><img src="assets/project-sabia.svg" width="49%" alt="Sabia: servidora pública digital con voz para la gestión del riesgo"></a>
 <a href="https://lulo-ia.vercel.app/"><img src="assets/project-lulo.svg" width="49%" alt="Lulo: tutor con IA para niños que adapta cómo enseña"></a>
 <a href="https://gotocloud.vercel.app/"><img src="assets/project-camila.svg" width="49%" alt="Camila: agente de voz con IA para contact centers"></a>
 <a href="https://la-vaca-hackaton.vercel.app/"><img src="assets/project-la-vaca.svg" width="49%" alt="La Vaca: divide la cuenta y cada amigo paga desde su wallet"></a>
@@ -31,7 +33,7 @@
 
 <br><br>
 
-<img src="assets/timeline.svg" width="100%" alt="Momentos: bachiller técnico en TI, SENA, Universidad de la Costa, Caribe Game Jam, Camila 2.º lugar en la Hackathon CaribeTech, La Vaca 3.er lugar, Kart Party y Lulo gana Mejor uso de Gemma 4.">
+<img src="assets/timeline.svg" width="100%" alt="Momentos: bachiller técnico en TI, SENA, Universidad de la Costa, Caribe Game Jam, Camila 2.º lugar en la Hackathon CaribeTech, La Vaca 3.er lugar, Kart Party, Lulo gana Mejor uso de Gemma 4 y Sabia 1.er lugar en la II Hackatón esapista.">
 
 <br><br>
 

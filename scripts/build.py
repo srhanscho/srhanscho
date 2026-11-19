@@ -173,7 +173,7 @@ def build_hero():
         for x, y, dx, dy in ((bx0, by0, 1, 1), (bx1, by0, -1, 1), (bx0, by1, 1, -1), (bx1, by1, -1, -1)))
 
     readouts = [
-        ("PODIOS 2026", "Mejor uso de Gemma 4, un 2.º y un 3.er lugar", GOLD),
+        ("PODIOS 2026", "Un 1.er lugar, Mejor uso de Gemma 4, un 2.º y un 3.º", GOLD),
         ("EN PRODUCCIÓN", "Grandpa Burgers: pedidos reales por WhatsApp", MESH),
         ("FORMACIÓN", "Desarrollo de Software · Universidad de la Costa", MESH),
     ]
@@ -243,6 +243,8 @@ def build_button(slug, text, icon):
 
 # ---- podiums ---------------------------------------------------------------------------
 AWARDS = [
+    ("sabia", "1.er", "1.er lugar", "II Hackatón esapista", "Cartagena · nov 2026",
+     "Sabia", "servidora pública con voz"),
     ("lulo", "trophy", "Mejor uso de Gemma 4", "Hacktoberfest Hack Day", "Barranquilla · oct 2026",
      "Lulo", "tutor con IA para niños"),
     ("camila", "2.º", "2.º lugar", "Hackathon CaribeTech", "reto GoToCloud · may 2026",
@@ -277,6 +279,9 @@ def build_awards():
 
 # ---- projects ----------------------------------------------------------------------------
 PROJECTS = [
+    ("sabia", "IA · GOBIERNO", ("1.er lugar", GOLD), "Sabia",
+     "Servidora pública digital con voz: recibe reportes de riesgo en Cartagena y dice en qué va cada solicitud.",
+     ["Next.js", "Claude", "ElevenLabs", "Supabase"], "abrir demo"),
     ("lulo", "IA · EDUCACIÓN", ("Mejor uso de Gemma 4", GOLD), "Lulo",
      "Tutor con IA para niños de 6 a 12 años que aprende cómo aprende cada uno y adapta la siguiente clase.",
      ["Next.js", "TypeScript", "Gemma 4", "Web Speech"], "abrir demo"),
@@ -432,6 +437,7 @@ MOMENTS = [
     ("AGO 2026", "La Vaca: 3.er lugar en la hackatón", True),
     ("SEP 2026", "Kart Party: karts con el celular como control", False),
     ("OCT 2026", "Lulo gana Mejor uso de Gemma 4 en el Hacktoberfest", True),
+    ("NOV 2026", "Sabia: 1.er lugar en la II Hackatón esapista", True),
 ]
 
 
@@ -538,7 +544,7 @@ def main():
     ASSETS.mkdir(exist_ok=True)
     data = load_github()
     build_hero()
-    build_header("podios", "PODIOS // HACKATHONS 2026", "3 DE 3 CON PREMIO")
+    build_header("podios", "PODIOS // HACKATHONS 2026", "4 DE 4 CON PREMIO")
     build_header("proyectos", "PROYECTOS // LO QUE HE CONSTRUIDO", "TOCA UNA TARJETA PARA ABRIRLA")
     icons = button_icons()
     for slug, text in (("portafolio", "Portafolio"), ("linkedin", "LinkedIn"), ("correo", "Correo")):
